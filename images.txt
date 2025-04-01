@@ -8,3 +8,4 @@ m.daocloud.io/docker.io/library/mysql:8.0.39
 m.daocloud.io/docker.io/library/nginx:1.27.1-alpine
 m.daocloud.io/docker.io/library/redis:latest
 bitnami/mysql --version=9.10.0
+registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
