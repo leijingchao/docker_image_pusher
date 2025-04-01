@@ -3,3 +3,6 @@ gitlab/gitlab-ce:latest
 mysql:5.7
 registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 docker.elastic.co/elasticsearch/elasticsearch:8.5.3
+m.daocloud.io/docker.io/library/mongo:latest
+m.daocloud.io/docker.io/library/mysql:8.0.39
+m.daocloud.io/docker.io/library/nginx:1.27.1-alpine
