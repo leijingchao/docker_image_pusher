@@ -10,4 +10,4 @@ m.daocloud.io/docker.io/library/redis:latest
 bitnami/mysql --version=9.10.0
 registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 lizhenliang/nfs-client-provisioner
-jenkins/jenkins:lts-alpine
+jenkins/jenkins:lts-jdk17
